@@ -1,6 +1,6 @@
 # zygfryd-legacy
 
-![Zygfryd](https://bytebucket.org/lwojcik/zygfryd-legacy/raw/HEAD/zygfryd67.jpg)
+![Zygfryd](https://raw.githubusercontent.com/lwojcik/zygfryd-legacy/master/zygfryd67.jpg)
 
 It all started during another boring college lecture in 2006. It was so boring that I spontaneously started drawing people around me, just like sketchers in American courts. Later on someone suggested trying to draw comic strips. Somehow one of the figures I had drawn seemed to be perfect fit for a main character.
 
@@ -10,6 +10,6 @@ Now I'm keeping them here for nostalgic reasons.
 
 # Project page
 
-https://bitbucket.org/lwojcik/zygfryd-legacy
+https://github.com/lwojcik/zygfryd-legacy
 
 (c) 2007-2017 Łukasz Wójcik. All rights reserved
